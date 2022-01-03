@@ -186,16 +186,13 @@ The 2nd IP is my lan network address.
 
 ---
 
-In the end I would like to thank `leeloo1313` for helping me and encouraging me :D
+## Thanking:
 
---- 
+In the end I would like to thank `leeloo1313` for helping and encouraging me :D
+
 ## Coming:
-* An auto setup for the whole process
+* An auto setup for the whole process.
 * Setting an android emulator on windows and bypassing SSL pinning, and more ...
-
----
-
-You can open a new issue in case you faced any problems and I will do my best to help you.
 
 ---
 
